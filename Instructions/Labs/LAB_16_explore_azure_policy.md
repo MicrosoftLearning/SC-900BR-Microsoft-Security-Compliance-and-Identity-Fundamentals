@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Explorar o Azure Policy'
     module: 'Módulo 4 Lição 5: Descrever as funcionalidades das soluções de conformidade da Microsoft: Descrever o Azure Policy'
