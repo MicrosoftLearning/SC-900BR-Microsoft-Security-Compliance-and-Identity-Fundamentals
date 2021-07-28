@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Central de Segurança do Azure'
     module: 'Módulo 3 – Lição 2: Descrever os recursos das soluções de segurança da Microsoft: Descrever os recursos de gerenciamento de segurança do Azure'
