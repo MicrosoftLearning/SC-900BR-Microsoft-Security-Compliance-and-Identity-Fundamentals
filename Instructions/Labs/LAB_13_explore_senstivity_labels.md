@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Explorar rótulos de confidencialidade no Microsoft 365'
     module: 'Módulo 4 Lição 2: Descrever as funcionalidades das soluções de conformidade da Microsoft: Descrever os recursos de proteção de informações e de governança do Microsoft 365'
