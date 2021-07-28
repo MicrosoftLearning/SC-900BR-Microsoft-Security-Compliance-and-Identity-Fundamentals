@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Módulo do 'portal do Microsoft 365 Defender'
     module: 'Módulo 3 – Lição 5: Descrever os recursos das soluções de segurança da Microsoft: Descrever os recursos de gerenciamento de segurança do Microsoft 365'
