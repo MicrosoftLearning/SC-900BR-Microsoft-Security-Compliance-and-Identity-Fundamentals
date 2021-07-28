@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Explorar o gerenciamento de acesso no Azure AD com Condicional'
     module: 'Módulo 2 Lição 3: Descrever as funcionalidades das soluções de gerenciamento de acesso e identidade da Microsoft: Explorar os recursos de gerenciamento de acesso do Azure AD'
