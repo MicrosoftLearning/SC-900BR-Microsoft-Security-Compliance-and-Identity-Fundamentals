@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Acesso Condicional do Azure Active Directory'
     module: 'Módulo 2 – Lição 3: Descrever os recursos das soluções de Gerenciamento de Identidades e Acesso da Microsoft: Explorar os recursos de gerenciamento de acesso do Azure AD'
