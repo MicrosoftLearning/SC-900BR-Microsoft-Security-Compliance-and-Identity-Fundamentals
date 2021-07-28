@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Redefinição de senha self-service do Azure Active Directory'
     module: 'Módulo 2 – Lição 2: Descrever os recursos das soluções de Gerenciamento de Identidades e Acesso da Microsoft: Descrever os diferentes métodos de autenticação do Azure AD'
