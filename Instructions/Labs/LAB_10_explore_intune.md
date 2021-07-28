@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Explorar o Microsoft Intune'
     module: 'Módulo 3 Lição 6: Descrever as funcionalidades das soluções de segurança da Microsoft: Descrever a segurança do ponto de extremidade com o Microsoft Intune'
