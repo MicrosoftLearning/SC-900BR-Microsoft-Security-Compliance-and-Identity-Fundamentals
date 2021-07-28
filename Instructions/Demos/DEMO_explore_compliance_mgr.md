@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Explorar o Centro de conformidade do Microsoft 365 e o Gerenciador de Conformidade'
     module: 'Módulo 4 – Lição 1: Descrever os recursos das soluções de conformidade da Microsoft: Descrever os recursos de gerenciamento de conformidade na Microsoft'
