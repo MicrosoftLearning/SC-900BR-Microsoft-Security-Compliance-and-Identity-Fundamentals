@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Explorar a Central de Segurança do Azure'
     module: 'Módulo 3 Lição 2: Descrever as funcionalidades das soluções de segurança da Microsoft: Descrever os recursos de gerenciamento de segurança do Azure'
