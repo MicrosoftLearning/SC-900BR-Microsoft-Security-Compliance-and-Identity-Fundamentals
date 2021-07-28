@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'NSGs (Grupos de Segurança de Rede) do Azure'
     module: 'Módulo 3 – Lição 1: Descrever os recursos das soluções de segurança da Microsoft: Descrever os recursos básicos de segurança no Azure.'
