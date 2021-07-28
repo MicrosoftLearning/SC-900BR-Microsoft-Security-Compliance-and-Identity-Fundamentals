@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Explorar o Portal de Confiança do Serviço'
     module: 'Módulo 4 Lição 1: Descrever as funcionalidades das soluções de conformidade da Microsoft: Descrever os recursos de gerenciamento de conformidade na Microsoft'
