@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Explorar o Gerenciamento de Risco Interno no Microsoft 365'
     module: 'Módulo 4 Lição 3: Descrever as funcionalidades das soluções de conformidade da Microsoft: Descrever as funcionalidades de risco interno no Microsoft 365'

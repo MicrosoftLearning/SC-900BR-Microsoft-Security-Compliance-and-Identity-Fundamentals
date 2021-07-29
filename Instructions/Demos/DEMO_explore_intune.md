@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Microsoft Intune'
     module: 'Módulo 3 – Lição 6: Descrever os recursos das soluções de segurança da Microsoft: Descrever a segurança do ponto de extremidade com o Microsoft Intune'

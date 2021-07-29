@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Explorar o Centro de Conformidade e o Gerenciador de Conformidade do Microsoft 365'
     module: 'Módulo 4 Lição 1: Descrever as funcionalidades das soluções de conformidade da Microsoft: Descrever os recursos de gerenciamento de conformidade na Microsoft'

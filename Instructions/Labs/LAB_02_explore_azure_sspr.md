@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Explorar a autenticação do Azure AD com redefinição de senha de autoatendimento'
     module: 'Módulo 2 Lição 2: Descrever as funcionalidades das soluções de gerenciamento de acesso e identidade da Microsoft: Descrever os diferentes métodos de autenticação do Azure AD'

@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Explorar o fluxo de trabalho da Descoberta Eletrônica Principal'
     module: 'Módulo 4 Lição 4: Descrever as funcionalidades das soluções de conformidade da Microsoft: Descrever a Descoberta Eletrônica e os principais recursos de auditoria do Microsoft 365'
