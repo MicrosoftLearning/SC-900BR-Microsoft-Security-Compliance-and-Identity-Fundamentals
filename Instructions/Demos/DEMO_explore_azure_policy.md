@@ -18,7 +18,7 @@ Nesta demonstração, você verá o processo de configuração de uma política 
 
 1. Agora você está na visão geral da página Política. Observe as informações disponíveis no painel.
 
-1. No painel de navegação esquerdo, em Criação, selecione **Atribuições**.  Você notará que já existe uma atribuição de política. Selecione **ASC Padrão**.  Observe o campo de descrição. Este é o conjunto padrão de políticas monitoradas pela Central de Segurança do Azure. Ele foi atribuído automaticamente como parte da integração à Central de Segurança. A atribuição padrão contém apenas políticas de auditoria. Para obter mais informações visite https://aka.ms/ascpolicies.  Retorne à página Atribuições de política selecionando o **X** no canto superior direito da página.
+1. No painel de navegação esquerdo, em Criação, selecione **Atribuições**.  Você notará que já existe uma atribuição de política. Selecione **ASC Padrão**.  Observe o campo de descrição. Este é o conjunto padrão de políticas monitoradas pela Central de Segurança do Azure. Ele foi atribuído automaticamente como parte da integração à Central de Segurança. A atribuição padrão contém apenas políticas de auditoria. Para obter mais informações visite https://aka.ms/ascpolicies-ptb.  Retorne à página Atribuições de política selecionando o **X** no canto superior direito da página.
 
 1. Na parte superior da página, selecione **Atribuir política**.
 
@@ -52,7 +52,7 @@ Nesta demonstração, você verá o processo de configuração de uma política 
 
 1. No campo Grupo de recursos, insira **SC900-Labs**.
 
-1. Deixe a configuração de Região como padrão e selecione **Avançar**:** Marcações**.
+1. Deixe a configuração de Região como padrão e selecione **Avançar**: **Marcações**.
 
 1. Deixe os campos Nome e Valor da marcação em branco.  NÃO PREENCHA e selecione **Revisar + criar**.
 

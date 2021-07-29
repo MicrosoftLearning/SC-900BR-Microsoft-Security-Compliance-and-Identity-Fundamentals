@@ -31,7 +31,7 @@ Nesta demonstração, você mostrará a funcionalidade de um NSG (grupo de segur
     1. **Senha**:  insira **SC900AzureLabs**.
     1. **Portas de entrada públicas**:  você pode deixar a configuração padrão (não importa o que você selecionar aqui, pois as configurações de rede substituirão o que você fizer aqui).
     1. **Licenciamento**  selecione **Confirmo que tenho uma licença do Windows 10 qualificada com direitos de hospedagem multilocatário**, para que apareça uma marca de seleção na caixa.
-    1. Selecione **Avançar**:** Discos**.
+    1. Selecione **Avançar**: **Discos**.
 
 1. Agora você está na guia Discos para a configuração da VM.  Deixe todas as Configurações padrão e selecione **Avançar: Rede >**.
 
