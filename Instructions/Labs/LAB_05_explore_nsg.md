@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Explorar o uso dos Grupos de Segurança de Rede (NSGs) do Azure'
+    title: 'Explorar os Grupos de Segurança de Rede (NSGs) do Azure'
     module: 'Módulo 3 Lição 1: Descrever as funcionalidades das soluções de segurança da Microsoft: Descrever recursos básicos de segurança do Azure.'
 ---
 
