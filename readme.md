@@ -1,4 +1,4 @@
-﻿# SC-900: Conceitos básicos de segurança, conformidade e identidade da Microsoft
+# SC-900: Conceitos básicos de segurança, conformidade e identidade da Microsoft
 
 Este repositório inclui scripts de demonstração e instruções dos laboratórios para o **SC-900T00: Conceitos básicos de segurança, conformidade e identidade da Microsoft**.  Tanto os scripts de demonstração quanto os laboratórios exigem acesso ao locatário pré-configurado WWL M365 Enterprise 2019 SPE_E5, disponível através de um hoster de laboratório autorizado (ALH) e de uma assinatura Azure, com a senha do Azure.  A senha do Azure é necessária para verificar se a conta Azure está configurada com as mesmas credenciais do locatário do Microsoft 365 oferecido pelo ALH (i.e., a senha do Azure é recuperada utilizando as mesmas credenciais do locatário do Microsoft 365).  Assim, é possível ter uma experiência integrada ao alternar entre o Microsoft 365 e o Azure.  Os scripts de demonstração e as instruções dos laboratórios podem ser executados no locatário do Microsoft 365 e no Azure próprios do usuário, mas alguns recursos podem ser desabilitados ao utilizar a assinatura pessoal.
 
@@ -31,7 +31,7 @@ As interfaces do usuário (IU) do Microsoft 365 e do Azure são atualizadas cons
 
 ## Como posso contribuir?
 
-- Qualquer MCT pode enviar uma solicitação para o código ou conteúdo no repositório do GitHub. A Microsoft e o autor do curso farão uma triagem e incluirão o conteúdo e as alterações do código do laboratório conforme necessário.
+- Qualquer MCT pode enviar uma solicitação de pull para o código ou conteúdo no repositório do GitHub. A Microsoft e o autor do curso farão a triagem e incluirão as alterações de conteúdo e código do laboratório conforme o necessário.
 
 - É possível enviar bugs, alterações, melhorias e ideias.  Encontrou um novo recurso do Azure antes de nós?  Envie uma nova demonstração!
 

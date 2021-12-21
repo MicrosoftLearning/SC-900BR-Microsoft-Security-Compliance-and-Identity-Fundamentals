@@ -47,8 +47,6 @@ Nesta tarefa de configuração, você ativará o recurso de log de auditoria no 
 
 1. Em Centros de administração, clique em **Conformidade**.  Uma nova janela do navegador é aberta na página de boas-vindas do Centro de conformidade do Microsoft 365.  
 
-1. No painel de navegação esquerdo do Centro de conformidade do Microsoft 365, selecione **Mostrar tudo**.
-
 1. No painel de navegação esquerdo, na seção Soluções, selecione **Auditoria**.  Observação: a funcionalidade de auditoria também pode ser acessada pela página inicial do Microsoft 365 Defender (anteriormente chamado de Central de segurança do Microsoft 365).
 
 1. Verifique se a guia **Pesquisar** está selecionada (sublinhada).
