@@ -51,7 +51,7 @@ Nesta demonstração, vamos passar pelo processo de criação de uma instância 
 
 1. Na página de Controle de acesso, selecione **+ Adicionar** e, em seguida, **Adicionar atribuição de função**.
 
-1. A janela Adicionar atribuição de função é aberta.  Clique na seta suspensa do campo Selecionar uma função para exibir as funções disponíveis. Na caixa de pesquisa de seleção de função, digite **Microsoft Sentinel** para ver as quatro funções associadas ao Microsoft Sentinel. Uma prática recomendada é atribuir o menor privilégio necessário para a função.  Para os fins deste laboratório, digite **Proprietário** na caixa de pesquisa e selecione **Proprietário** nos resultados.  Como referência, revise as permissões no Microsoft Sentinel:  https://docs.microsoft.com/en-us/azure/sentinel/roles
+1. A janela Adicionar atribuição de função é aberta.  Clique na seta suspensa do campo Selecionar uma função para exibir as funções disponíveis. Na caixa de pesquisa de seleção de função, digite **Microsoft Sentinel** para ver as quatro funções associadas ao Microsoft Sentinel. Uma prática recomendada é atribuir o menor privilégio necessário para a função.  Para os fins deste laboratório, digite **Proprietário** na caixa de pesquisa e selecione **Proprietário** nos resultados.  Como referência, revise as permissões no Microsoft Sentinel:  https://docs.microsoft.com/pt-br/azure/sentinel/roles
 
 1. Na lista de usuários exibida, selecione **Administrador MOD**.
 
@@ -74,7 +74,7 @@ Nesta demonstração, vamos passar pelo processo de criação de uma instância 
 1. Na página Conector do Azure Active Directory, verifique a descrição e observe o conteúdo relacionado, incluindo pastas de trabalho, consultas e modelos de regras analíticas.  
 
 1. A guia de instruções, na janela principal, apresenta os pré-requisitos para integrar o Microsoft Sentinel ao Azure Active Directory.   Em configuração, selecione **Logs de entrada** e depois Aplicar Mudanças (é possível escolher múltiplos conectores).  Observação: pode levar um tempo até que o status do conector seja exibido como conectado (aproximadamente 30 minutos ou mais).  Como referência:
-    1. Reveja as Permissões no Microsoft Sentinel:  https://docs.microsoft.com/en-us/azure/sentinel/roles
+    1. Reveja as Permissões no Microsoft Sentinel:  https://docs.microsoft.com/pt-br/azure/sentinel/roles
     1. Conectar o Azure Active Directory:  https://docs.microsoft.com/pt-br/azure/sentinel/connect-azure-active-directory
 
 1. Na guia Próximas etapas, veja a lista de pastas de trabalho recomendadas.   Na seção Pastas de trabalho recomendadas, selecione **Logs de entrada do Azure** (outras pastas de trabalho podem ser selecionadas).

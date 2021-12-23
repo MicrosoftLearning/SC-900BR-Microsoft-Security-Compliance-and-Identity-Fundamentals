@@ -1,7 +1,7 @@
 ---
-laboratório:
-    título: 'Explorar o Microsoft Sentinel'
-    módulo: 'Módulo 3 – Lição 3: Descrever as funcionalidades das soluções de segurança da Microsoft Descrever os recursos de segurança do Microsoft Sentinel'
+lab:
+    title: 'Explorar o Microsoft Sentinel'
+    module: 'Módulo 3 – Lição 3: Descrever as funcionalidades das soluções de segurança da Microsoft Descrever os recursos de segurança do Microsoft Sentinel'
 ---
 
 
@@ -66,7 +66,7 @@ Neste laboratório, vamos acompanhar o processo de criação de uma instância d
 
 6. Na página Controle de acesso, selecione **+Adicionar** e depois **Adicionar atribuição de função**.
 
-7. A janela Adicionar atribuição de função vai ser aberta.  Selecione a seta para baixo no campo Selecionar função para exibir as funções disponíveis.  Para este laboratório, selecione **Proprietário**.  OBSERVAÇÃO:  Uma prática recomendada é atribuir o menor privilégio necessário para a função.  Como referência, revise as permissões no Microsoft Sentinel:  https://docs.microsoft.com/en-us/azure/sentinel/roles
+7. A janela Adicionar atribuição de função vai ser aberta.  Selecione a seta para baixo no campo Selecionar função para exibir as funções disponíveis.  Para este laboratório, selecione **Proprietário**.  OBSERVAÇÃO:  Uma prática recomendada é atribuir o menor privilégio necessário para a função.  Como referência, revise as permissões no Microsoft Sentinel:  https://docs.microsoft.com/pt-br/azure/sentinel/roles
 
 8. Na lista de usuários exibida, selecione **Administrador MOD**.
 

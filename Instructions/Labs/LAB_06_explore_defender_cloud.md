@@ -1,7 +1,7 @@
 ---
-laboratório:
-    título: 'Explorar o Microsoft Defender for Cloud'
-    módulo: 'Módulo 3 – Lição 2: Descrever as funcionalidades das soluções de segurança da Microsoft Descrever os recursos de gerenciamento de segurança do Azure'
+lab:
+    title: 'Explorar o Microsoft Defender for Cloud'
+    module: 'Módulo 3 – Lição 2: Descrever as funcionalidades das soluções de segurança da Microsoft Descrever os recursos de gerenciamento de segurança do Azure'
 ---
 
 # Laboratório: Explorar o Microsoft Defender for Cloud
@@ -54,7 +54,7 @@ Neste laboratório, vamos explorar o Microsoft Defender for Cloud e aprender com
 1. Na página de recomendações, selecione **Implementar práticas recomendadas de segurança** para expandir a lista. Observe que ele mostra o status de integridade do recurso em vermelho.
 1. Selecione o item **Deve haver mais de um proprietário atribuído à sua assinatura**, que mostra o status do resource health em vermelho. 
 1. Abaixo de onde diz **Recursos afetados**, certifique-se de que Recursos não íntegros esteja selecionado/sublinhado e, em seguida, selecione a assinatura do Azure listada.
-1. No topo da página Controle de acesso (IAM), selecione **+Adicionar** e depois **Adicionar atribuição de função** no menu suspenso.
+1. No topo da página Controle de acesso (IAM), selecione **+ Adicionar** e depois **Adicionar atribuição de função** no menu suspenso.
     1. No lado esquerdo da página, selecione **Proprietário** (este deve ser o primeiro item listado) para que a linha seja destacada em cinza e selecione **Avançar** na parte inferior da página.
     1. Ao lado de onde diz Membros, selecione **+ Selecionar membros**. 
     1. Na janela Selecionar membros que se abre no lado direito da tela, selecione **Alex Wilber** e pressione **Selecionar** na parte inferior da página.  
