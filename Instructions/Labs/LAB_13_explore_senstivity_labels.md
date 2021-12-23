@@ -27,13 +27,12 @@ Neste laboratório, vamos explorar as funcionalidades dos rótulos de confidenci
 
 1. Em Centros de administração, selecione **Conformidade**.  A página inicial do centro de conformidade do Microsoft 365 vai ser aberta no navegador.  
 
-1. À esquerda no painel de navegação do centro de conformidade do Microsoft 365, selecione **Mostrar todos**.
+1. À esquerda do painel de navegação, em soluções, selecione **Proteção de informações**.
 
-1. Do lado esquerdo do painel de navegação, em soluções, selecione **Proteção de informações**.
+1. Selecione a guia **Rótulos** na parte superior da página.
 
-1. A caixa de informações amarela indica que a Sua organização não habilitou o processamento de conteúdo em arquivos online do Office com rótulos de confidencialidade criptografados e que se encontram armazenados no OneDrive e no SharePoint.  Selecione Habilitar agora.  Depois de habilitar, pode ter um atraso para a configuração ser propagada no sistema.
+1. Uma caixa de informações amarela é exibida, indicando: "Sua organização não ativou a capacidade de processar conteúdo em arquivos online do Office que têm rótulos de sensibilidade criptografados aplicados e estão armazenados no OneDrive e no SharePoint...”  Selecione Habilitar agora.  Depois de habilitar, pode ter um atraso para a configuração ser propagada no sistema.
 
-1. Verifique se a guia **Rótulos** no topo da página está selecionada (sublinhada).
 
 1. No meio da página, observe que há três rótulos já criados.  Selecione **Confidencial - Finanças**.  Uma janela será aberta com informações sobre este rótulo.  Observe que este rótulo está configurado para comportar tanto criptografia quanto marcação de conteúdo.  Selecione Editar Rótulo no topo da página para exibir algumas configurações básicas.
 
@@ -45,7 +44,7 @@ Neste laboratório, vamos explorar as funcionalidades dos rótulos de confidenci
 
 1. A janela Criptografia mostra as configurações de criptografia.  Não altere nada.  Verifique a caixa de informações em Configurar criptografia e também as configurações definidas. Observe como o acesso do usuário ao conteúdo é definido para não expirar nunca.  Também é possível atribuir permissões para usuários e grupos específicos para que eles possam interagir com o conteúdo a que o rótulo se aplica.  Em usuários e grupos, o locatário é definido para que todos os usuários do seu locatário possam encontrar o conteúdo com este rótulo.  A equipe de finanças também aparece listada e tem permissões de cocriação.  Não altere nenhuma configuração.  Selecione **Avançar** na parte inferior da página.
 
-1. Na página de marcações de conteúdo, observe a caixa de informações no topo da página.  As marcações de conteúdo serão aplicadas a todos os documentos, mas apenas os cabeçalhos e notas de rodapé serão aplicados às mensagens de email. Em outras palavras, as marcas d’água não serão aplicadas aos emails.  A marcação de conteúdo associada a este rótulo é uma marca-d’água.  Não altere nenhuma configuração.  Selecione **Avançar** na parte inferior da página.
+1. Na página de marcações de conteúdo, observe a caixa de informações no topo da página.  As marcações de conteúdo serão aplicadas a todos os documentos, mas apenas os cabeçalhos e notas de rodapé serão aplicados às mensagens de email. Em outras palavras, as marcas d’água não serão aplicadas aos emails.  A marcação de conteúdo associada a este rótulo é uma marca d'água que diz ALTAMENTE CONFIDENCIAL.  Não altere nenhuma configuração.  Selecione **Avançar** na parte inferior da página.
 
 1. Agora estamos na janela Rotulamento automático de arquivos e emails.  Leia a descrição de rotulamento automático no topo da página e a caixa de informações abaixo delas.  Observe também que este rótulo está definido para o rotulamento automático para condições específicas. Não altere nenhuma configuração.  Selecione **Avançar** na parte inferior da página.
 
@@ -64,6 +63,9 @@ Neste laboratório, vamos explorar as funcionalidades dos rótulos de confidenci
 1. Leia a descrição em “Publicar para usuários e grupos”.  Observe que este rótulo está disponível para todos os usuários.  Não altere nenhuma configuração.  Selecione **Avançar** na parte inferior da página.
 
 1. Verifique as configurações da política.  Não altere nenhuma configuração.  Selecione **Avançar** na parte inferior da página.
+    1. Leia a descrição em "Aplicar um rótulo padrão aos documentos".  Observe que não há rótulo padrão. Não altere nenhuma configuração.  Selecione **Avançar** na parte inferior da página.
+    1. Leia a descrição em "Aplicar um rótulo padrão aos emails".  Selecione a seta suspensa na caixa de entrada para visualizar as opções disponíveis. Não altere nenhuma configuração.  Selecione **Avançar** na parte inferior da página.
+    1. Leia a descrição em "Aplicar um rótulo padrão ao conteúdo do Power BI".  Observe que não há rótulo padrão. Não altere nenhuma configuração.  Selecione **Avançar** na parte inferior da página.
 
 1. A última opção de configuração é para nomear a política.  Não altere nenhuma configuração.  Selecione **Cancelar** na parte inferior da página para sair da configuração da política e voltar à página Proteção de Informações.
 
@@ -76,19 +78,22 @@ Neste laboratório, vamos explorar as funcionalidades dos rótulos de confidenci
 
 #### Tarefa 2:  Nesta tarefa, vamos acompanhar o processo de aplicação de rótulos da perspectiva do usuário (no caso, o usuário é o administrador) e verificar a marcação de conteúdo gerada pelo rótulo.
 
-1. Na página inicial do centro de conformidade do Microsoft 365, selecione o **ícone do inicializador de aplicativos**, perto de Contoso Eletronics. **Clique com botão direito do mouse no ícone do Word** e selecione **Abrir em uma nova guia**.  
+1. Primeiro, certifique-se de ter configurado o Office em sua máquina virtual (VM) do laboratório.  Para fazer isso, selecione a guia do **Centro de administração do Microsoft 365** que é aberta no navegador.  Se você já fechou a guia, abra uma nova guia do navegador e digite **admin.microsoft.com**.
+    1. No painel de navegação esquerdo, selecione **Faturamento** para ver todas as opções e selecione **Seus produtos**.
+    1. Na página Seus produtos, selecione **Microsoft 365 E5 Trial**
+    1. Na página de avaliação do Microsoft 365 E5, selecione **Baixar e instalar o software** e siga as instruções na página.
 
-1. Selecione **+ Novo documento em branco** e insira algum texto na página.  Na barra azul no topo da página, selecione a seta para baixo, perto de DocumentoXX - Salvo, e insira **Rótulo-teste** na caixa do Nome do Arquivo.
+1. No canto inferior esquerdo da VM do laboratório, selecione o ícone do Windows, selecione **Word** e selecione **Documento em branco**.  Isso abrirá um novo documento do Word usando a versão desktop do Word.
 
-1. Na barra de menu superior, selecione **Confidencialidade**. No menu suspenso, selecione **Confidencial - Finanças**. 
+1. Na barra de menu superior, selecione **Confidencialidade**. No menu suspenso, selecione **Confidencial - Finanças**.
 
-1. Na barra de menu superior, selecione **Exibição** e depois **Modo de Exibição de Leitura**.
+1. Observe que o documento inclui a marca-d’água.  A marca d'água aparecerá em um pequeno texto cinza claro exibido verticalmente na página. 
 
-1. Observe que o documento inclui a marca-d’água.  
+1. Salve o arquivo do Word.
 
 1. Feche as guias do Microsoft Word abertas no seu navegador para sair do Word.
 
-#### Tarefa 3 (opcional): Além da marcação de conteúdo, a configuração de proteção de rótulos foi definida para criptografia. De acordo com as permissões configuradas com este rótulo, os membros do grupo de finanças podem cocriar documentos com este rótulo aplicado e os usuários no locatário da Contoso podem exibi-los (ou qualquer documento/email com o rótulo aplicado).  Nesta tarefa, vamos enviar este documento a um endereço de email ao qual temos acesso (i.e., um endereço de email pessoal) e que NÃO faz parte do domínio WWLxZZZZ.OnMicrosoft.com e verificar o que acontece quando tentamos abrir o anexo.  
+#### Tarefa 3 (opcional): Além da marcação de conteúdo, a configuração de proteção de rótulos foi definida para criptografia. De acordo com as permissões configuradas com esse rótulo, os membros do grupo financeiro podem ser coautores de documentos com esse rótulo aplicado e os usuários no locatário da Contoso podem visualizar.  Nesta tarefa, vamos enviar este documento a um endereço de email ao qual temos acesso (i.e., um endereço de email pessoal) e que NÃO faz parte do domínio WWLxZZZZ.OnMicrosoft.com e verificar o que acontece quando tentamos abrir o anexo.  
 
 1. Na página inicial do centro de conformidade do Microsoft 365, selecione o **ícone do inicializador de aplicativos**, perto de Contoso Eletronics. **Clique com botão direito do mouse no ícone do Outlook** e selecione **Abrir em uma nova guia**.
 
@@ -100,7 +105,7 @@ Neste laboratório, vamos explorar as funcionalidades dos rótulos de confidenci
 
 1. Na lista aberta, selecione o documento criado, ao qual aplicamos o rótulo **Rótulo-teste**. Selecione **Avançar** e depois **Anexar como cópia**.  Clique em **Enviar**.
 
-1. Verifique o email a que você enviou o documento.  Lembre-se de que o email pode ter sido direcionado à pasta de lixo eletrônico.  Quando tentar abrir o arquivo do word em anexo, encontramos uma notificação de que não temos permissão para abrir o arquivo.
+1. Usando o navegador da Web em sua VM de laboratório, faça login na conta de email para a qual você enviou o documento.  Lembre-se de que o email pode ter sido direcionado à pasta de lixo eletrônico.  Quando tentar abrir o arquivo do word em anexo, encontramos uma notificação de que não temos permissão para abrir o arquivo.
 
 1. Feche as guias do navegador abertas.
 

@@ -33,27 +33,27 @@ Neste laboratório, vamos explorar a página inicial do centro de conformidade d
 1. É possível adicionar cartões selecionando **+ Adicionar cartões**.  A janela Adicionar cartões à sua página inicial será aberta.  Posicione o cursor do mouse sobre o Cartão do catálogo de soluções exibido nessa janela e arraste-o até a localização desejada na tela inicial.
 1. À esquerda no painel de navegação da página inicial do centro de conformidade do Microsoft 365, observe que apenas um Catálogo é exibido em Soluções.  Do lado esquerdo do painel de navegação, selecione **[...Mostrar todos]**.  Observe como todas as soluções adicionais aparecem na seção de soluções.  
 1. Selecione **Mostrar menos** para ocultar.
-1. Como administrador de conformidade, pode ser que tenha um conjunto de soluções que você gerencia para a sua organização e que você deseja que sempre apareçam listadas no painel de navegação.  Para personalizar de acordo com a suas preferências, selecione **Personalizar navegação**.  
-1. Na janela Personalizar o painel de navegação, selecione **Auditoria**, **Prevenção contra perda de dados** e **Descoberta Eletrônica**.  Selecione **Salvar** na parte inferior da janela.  Observe que a seção de Soluções do painel de navegação foi atualizada.
+1. Como administrador de conformidade, pode haver um conjunto de soluções que você gerencia para nossa organização e, como tal, você pode querer ter apenas aquelas soluções listadas no painel de navegação que você vê. Para personalizar de acordo com suas preferências, selecione **Personalizar navegação**.  
+1. Na janela Personalizar seu painel de navegação, observe como você pode selecionar os itens para serem exibidos no painel de navegação e desmarcar os itens que não deseja ver. Para o propósito desses laboratórios, mantenha todos os itens selecionados e clique em **Salvar** na parte inferior da janela.  
 1. Deixe a guia do navegador aberta.
 
 #### Tarefa 2: Aprender sobre a postura de conformidade da sua organização através do Gerenciador de Conformidade.
 
 1. À esquerda no painel de navegação do centro de conformidade do Microsoft 365, selecione **Gerenciador de Conformidade**.  Também é possível selecionar o Gerenciador de Conformidade a partir da barra de título do cartão Gerenciador de Conformidade.
 
-1. Na página Gerenciador de Conformidade, verifique se a **Visão Geral** está selecionada (sublinhada). Role a página para verificar todas as informações disponíveis na página.  As informações dessa página incluem sua pontuação de conformidade, em porcentagem e com base nos seus pontos atingidos, e os pontos atingidos gerenciados pela Microsoft.   Você encontrará Ações chave de melhoria, Soluções que afetam a sua pontuação e o detalhamento da pontuação de conformidade por categorias ou avaliações.
+1. Na página Gerenciador de Conformidade, verifique se a **Visão Geral** está selecionada (sublinhada). Role a página para verificar todas as informações disponíveis na página.  As informações nesta página incluem sua pontuação de conformidade, seus pontos alcançados e os pontos gerenciados pela Microsoft alcançados.   Você encontrará Ações chave de melhoria, Soluções que afetam a sua pontuação e o detalhamento da pontuação de conformidade por categorias ou avaliações.
 
-1. Na parte superior da página Visão Geral, selecione **Ações de melhoria**.  Essas ações podem melhorar a pontuação de conformidade da sua organização. Os pontos podem levar até 24 horas para serem atualizados.  Observe os filtros disponíveis.
+1. Na parte superior da página Visão Geral, selecione **Ações de melhoria**.  Essas são ações que podem melhorar a pontuação de conformidade da organização. Observe que, conforme as ações de melhoria são realizadas, os pontos podem levar até 24 horas para serem atualizados.  Observe os filtros disponíveis.
 
 1. Na lista de ações de melhoria, selecione **Habilitar redefinição de senha self-service**.  Cada ação de melhoria tem uma seção de visão geral junto com uma página de detalhes, onde é possível selecionar implementação, teste, standards relacionados e requisitos regulatórios, e documentos.
 
-1. Saia dessa ação de melhoria selecionando o **X** no canto superior direito da tela.  Também é possível selecionar **Ações de melhoria** na navegação estrutural na parte superior esquerda da página.  Agora estamos de volta à na página de ações de melhoria.
+1. Saia desta ação de melhoria, selecionando **Ações de melhoria** na navegação estrutural na parte superior esquerda da página.  Agora estamos de volta à na página de ações de melhoria.
 
 1. Na parte superior da página, selecione **Soluções**. Nesta página, verificamos como as soluções podem contribuir para a nossa pontuação e as demais oportunidades de melhoria.
 
 1. Na parte superior da página, selecione **Avaliações**. Nesta página, encontramos a Linha de Base de Proteção de Dados.  Esta é uma avaliação padrão oferecida pela Microsoft no Gerenciador de Conformidade para a linha de base de proteção de dados do Microsoft 365.  Essa avaliação da linha de base tem um conjunto de controles para regulamentos e standards para proteção de dados e governança geral de dados. O Gerenciador de Conformidade se torna mais útil conforme você compila e gerencia suas próprias avaliações para atender às necessidades específicas da sua organização.
 
-1. Selecione **Linha de Base de Proteção de Dados**.  Observe as informações disponíveis na guia de progresso.  Também é possível verificar o status dos controles para essa avaliação, suas ações de melhoria e as ações da Microsoft.  
+1. Selecione **Linha de Base de Proteção de Dados**.  Observe as informações disponíveis na guia de progresso.  Você também pode visualizar informações sobre os Controles, ações de melhoria e ações da Microsoft.  
 
 1. Na parte superior esquerda da página, acima de Avaliações (navegação estrutural), selecione **Avaliação** para voltar à página de avaliações.  
 

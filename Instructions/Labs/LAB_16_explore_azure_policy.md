@@ -23,15 +23,15 @@ O Azure Policy ajuda a impor padrões organizacionais e a avaliar a conformidade
     1. Insira sua senha de administrador fornecida pelo provedor de hospedagem do laboratório. Selecione **Entrar**.
     1. Ao receber um aviso do Microsoft Edge para permanecer conectado, selecione **Sim**.
 
-1. Agora estamos no Portal do Azure.  Abaixo de Serviços do Azure, selecione **Política**. A página inicial Política será aberta, gerando a exibição do painel.  O escopo das informações que estamos verificando se aplica ao Azure Pass usado por você como parte deste laboratório.   Observe as informações disponíveis no painel.
+1. Agora estamos no Portal do Azure.  Na caixa de pesquisa, na barra azul, na parte superior da página, ao lado de onde está escrito Microsoft Azure, insira **política** e selecione **Política** nos resultados da pesquisa. A página inicial Política será aberta, gerando a exibição do painel.  O escopo das informações que estamos verificando se aplica ao Azure Pass usado por você como parte deste laboratório.   Observe as informações disponíveis no painel.
 
-1. Tem um item, chamado Padrão ASC (Central de Segurança do Azure), cujo escopo é Azure Pass – Sponsorship.   Selecione **Padrão ASC**.
+1. Existe um item, denominado ASC Default (ASC refere-se ao Azure Security Center que agora é denominado Microsoft Defender for Cloud), cujo escopo é Azure Pass – Sponsorship.   Selecione **Padrão ASC**.
 
-1. No topo da página, em Essentials, encontramos o nome, a descrição e outras informações essenciais.  Leia a descrição (posicione o cursor do mouse sobre a descrição).  
+1. No topo da página, em Essentials, encontramos o nome, a descrição e outras informações essenciais.  Leia a descrição (posicione o cursor do mouse sobre a descrição). OBSERVAÇÃO: O campo de descrição faz referência ao Azure Security Center, que foi renomeado para Microsoft Defender for Cloud.
 
-1. Observe que as informações apresentadas no painel são atualizadas de acordo com o item selecionado, a definição da iniciativa Padrão ASC.  Lembre-se de que a definição da inciativa é uma coleta de definições de políticas ajustada para obter um objetivo singular abrangente.  No caso, as políticas são relacionadas ao estado de conformidade da Central de Segurança do Azure.  As informações podem ser exibidas por grupo, políticas, recursos não compatíveis ou eventos.
+1. Observe que as informações apresentadas no painel são atualizadas de acordo com o item selecionado, a definição da iniciativa Padrão ASC.  Lembre-se de que a definição da inciativa é uma coleta de definições de políticas ajustada para obter um objetivo singular abrangente. As informações podem ser exibidas por grupo, políticas, recursos não compatíveis ou eventos.
 
-1. Volte à Página Inicial da política selecionando **Política** no canto superior esquerdo da página, em cima de Padrão ASC.
+1. Saia da página ASC e volte para a página inicial da política selecionando **X** no canto superior direito da janela.
 
 1. Do lado esquerdo do painel de navegação, selecione **Introdução**.  Aqui encontramos diferentes opções, incluindo a opção para procurar políticas internas e atribuir políticas em escala. É possível criar definições de política personalizadas para o seu ambiente, atribuições de política recomendadas e muito mais.
 

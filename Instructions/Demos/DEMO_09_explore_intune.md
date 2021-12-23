@@ -9,7 +9,7 @@ Demo:
 
 ### Cenário da demonstração
 
-Nesta demonstração, você explorará o Microsoft Intune no Microsoft Endpoint Manager. Observação: para o locatário fornecido pelo ALH, nenhum ponto de extremidade ou dispositivo é pré-configurado, portanto, este passo a passo não mostrará nenhuma informação real do ponto de extremidade. Este passo a passo serve apenas para orientar o aluno sobre as informações que estariam disponíveis e onde encontrar essas informações.  Para obter um passo a passo mais detalhado, veja o vídeo (<https://www.microsoft.com/br-br/videoplayer/embed/RE4LTIu>) no conteúdo associado do Learn.
+Nesta demonstração, você explorará o Microsoft Intune no Microsoft Endpoint Manager. Observação: para o locatário fornecido pelo ALH, nenhum ponto de extremidade ou dispositivo é pré-configurado, portanto, este passo a passo não mostrará nenhuma informação real do ponto de extremidade. Este passo a passo serve apenas para orientar o aluno sobre as informações que estariam disponíveis e onde encontrar essas informações.  Para obter um passo a passo mais detalhado, veja o vídeo (<https://www.microsoft.com/pt-br/videoplayer/embed/RE4LTIu>) no conteúdo associado do Learn.
 
 
 
