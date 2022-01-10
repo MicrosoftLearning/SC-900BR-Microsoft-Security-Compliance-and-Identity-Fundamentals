@@ -18,7 +18,7 @@ Nesta demonstração, você verá o Microsoft Defender for Cloud e mostrará com
 
 1. Observe as informações disponíveis na página de visão geral do Microsoft Defender for Cloud.  Observação: Você pode ver uma caixa de informações azul na parte superior da página indicando que você pode estar vendo informações limitadas.  Não a selecione (pode levar até 15 minutos para processar e não faz diferença para esta demonstração).
 
-1. As informações na parte superior da página incluem o número de assinaturas do Azure, o número de Recursos avaliados, o número de recomendações ativas e outros alertas de segurança.  No corpo principal da página, há cartões que representam Secure Score, Conformidade regulatória, Insights, Azure Defender e muito mais.  
+1. As informações na parte superior da página incluem o número de assinaturas do Azure, o número de Recursos avaliados, o número de recomendações ativas e outros alertas de segurança.  No corpo principal da página, há cartões que representam Secure Score, Conformidade regulatória, Insights e muito mais.  
 
 1. Na parte superior da página, selecione **Recursos avaliados**.  (Observe que isso equivale a selecionar Inventário À esquerda no painel de navegação da página inicial do Microsoft Defender for Cloud).
     1. Essa ação leva você para a página **Inventário** que mostra sua assinatura do Azure Pass.  Selecione **Azure Pass – Sponsorship**.
@@ -49,3 +49,4 @@ Nesta demonstração, você verá o Microsoft Defender for Cloud e mostrará com
 ## Revisão
 
 Nesta demonstração, você mostrou o Microsoft Defender for Cloud e mostrou como o Azure Secure Score pode ser usado para melhorar a postura de segurança de uma organização.
+
