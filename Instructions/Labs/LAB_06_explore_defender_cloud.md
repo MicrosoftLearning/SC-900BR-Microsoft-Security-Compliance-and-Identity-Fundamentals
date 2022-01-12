@@ -27,7 +27,7 @@ Neste laboratório, vamos explorar o Microsoft Defender for Cloud e aprender com
     1. Para garantir que seu locatário tenha uma visibilidade ampla, atribua as funções necessárias.  Selecione **Administrador de Segurança** e depois **Obter acesso** na parte inferior da página.
     1. É provável que apareça a mensagem O grupo de gerenciamento raiz não existe.  Pela descrição, o sistema vai criar um grupo para você.  Pode levar até 15 minutos para ser concluído (mas geralmente acaba antes).  Ao obter acesso, selecione **Microsoft Defender for Cloud** no canto superior esquerdo da página, acima de Obter permissões, e atualize a página de visão geral do Microsoft Defender for Cloud.
 
-1. As informações na parte superior da página incluem o número de assinaturas do Azure, o número de Recursos avaliados, o número de recomendações ativas e outros alertas de segurança.  No corpo principal da página, há cartões que representam Secure Score, Conformidade regulatória, Insights, Azure Defender e muito mais.  
+1. As informações na parte superior da página incluem o número de assinaturas do Azure, o número de Recursos avaliados, o número de recomendações ativas e outros alertas de segurança.  No corpo principal da página, há cartões que representam Secure Score, Conformidade regulatória, Insights e muito mais.  
 
 1. Na parte superior da página, selecione **Recursos avaliados**.  (Observe que isso equivale a selecionar Inventário À esquerda no painel de navegação da página inicial do Microsoft Defender for Cloud).
     1. Essa ação leva você para a página **Inventário** que mostra sua assinatura do Azure Pass.  Selecione **Azure Pass – Sponsorship**.
@@ -74,3 +74,4 @@ Neste laboratório, vamos explorar o Microsoft Defender for Cloud e aprender com
 
 #### Revisão
 Neste laboratório, exploramos o Microsoft Defender for Cloud e aprendemos como o Microsoft Defender for Cloud pode ser usado para melhorar a postura de segurança da sua organização.
+

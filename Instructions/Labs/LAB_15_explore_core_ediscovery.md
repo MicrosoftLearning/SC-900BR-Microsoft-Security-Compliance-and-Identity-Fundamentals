@@ -25,13 +25,13 @@ Neste laboratório, vamos acompanhar as etapas necessárias para configurar a De
 
 1. À esquerda no painel de navegação do Centro de administração do Microsoft 365, selecione **Mostrar todos**.
 
-1. Em Centros de administração, selecione **Segurança**.  A página inicial do Portal do Microsoft 365 Defender vai ser aberta no navegador.  
+1. Em Centros de administração, selecione **Conformidade**.  Uma nova página do navegador é aberta na página de boas-vindas do Centro de conformidade do Microsoft 365.  
 
-1. À esquerda no painel de navegação do portal do Microsoft 365 Defender, selecione **Permissões e funções**.  Pode ser necessário rolar a página para ver essa opção.
+1. No painel de navegação esquerdo, selecione **Permissões**. 
 
-1. Na página Permissões e funções, em **Email e funções de colaboração**, selecione **Funções**.
+1. Na página Permissões e funções, no Centro de conformidade, selecione **Funções**.
 
-1. Na barra de pesquisa, insira **Descoberta Eletrônica** e selecione o ícone de pesquisa (lupa).  Selecione **Gerente de Descoberta Eletrônica**.
+1. No campo de pesquisa, insira **Descoberta Eletrônica** e selecione o ícone de pesquisa (lupa).  Selecione **Gerente de Descoberta Eletrônica**.
 
 1. Na janela aberta, observe que há dois subgrupos, o Gerente de Descoberta Eletrônica e o Administrador de Descoberta Eletrônica.  Leia a descrição de cada um deles.  Para este laboratório, vamos adicionar membros ao subgrupo Administrador de Descoberta Eletrônica. Selecione **Editar**, perto de Administrador de Descoberta Eletrônica.  Como prática geral recomendada, o privilégio mínimo exigido para a função deve ser atribuído aos usuários.
 
@@ -45,15 +45,11 @@ Neste laboratório, vamos acompanhar as etapas necessárias para configurar a De
 
 1. Na parte inferior da janela Descoberta Eletrônica, selecione **Fechar**.
 
-1. Mantenha essa guia do navegador aberta; vamos voltar a ela na próxima tarefa.
+1. Deixe essa guia do navegador aberta; vamos usá-la na próxima tarefa.
 
 #### Tarefa 2:  Nesta tarefa, como Administrador de Descoberta Eletrônica (o administrador MOD é um administrador de descoberta eletrônica), você vai criar um processo para começar a usar a Descoberta Eletrônica Principal.
 
-1. Abra a guia do centro de administração do Microsoft 365 no navegador.
-
-1. Do lado esquerdo do painel de navegação, em Centros de Administração, selecione **Conformidade**.
-
-1. Agora estamos no centro de conformidade do Microsoft 365. Do lado esquerdo do painel de navegação, selecione **Mostrar todos**.
+1. Você ainda deve estar na página de funções do Centro de conformidade. Se você fechou a guia do navegador na tarefa anterior, abra uma nova guia do navegador e digite **compliance.microsoft.com**
 
 1. À esquerda no painel de navegação, em Soluções, selecione **Descoberta Eletrônica** e depois **Principal**.
 
@@ -61,7 +57,7 @@ Neste laboratório, vamos acompanhar as etapas necessárias para configurar a De
 
 1. Na janela Novo processo, insira um nome para o Processo, **SC900 Processo Teste**. Depois, selecione **Salvar** na parte inferior da página.
 
-1. Agora, o processo deve aparecer na lista. 
+1. Agora, o processo deve aparecer na lista.
 
 1. Como você criou o processo e tem privilégios de Administrador de Descoberta Eletrônica, é possível começar a trabalhar nele.  
 
@@ -77,7 +73,7 @@ Neste laboratório, vamos acompanhar as etapas necessárias para configurar a De
 
 1. No campo do nome, insira **Retenção teste** e depois selecione Avançar.
 
-1. Na página Escolher localizações, selecione o botão de alternância próximo ao email Exchange para definir o status como **Ativado** e selecione **Escolher usuários, grupos ou equipes**.  Na caixa de pesquisa, insira **Adele** e pressione o enter no teclado. A partir dos resultados da pesquisa, selecione **Adele Vance** e depois Escolher. Em seguida, selecione **Concluído**.
+1. Na página Escolher localizações, selecione o botão de alternância próximo a **Trocar caixas de correios** para definir o status como **Ativado** e selecione **Escolher usuários, grupos ou equipes**.  Na caixa de pesquisa, insira **Adele** e pressione o enter no teclado. A partir dos resultados da pesquisa, selecione **Adele Vance** e depois Escolher. Em seguida, selecione **Concluído**.
 
 1. Na página Escolher localizações, selecione **Avançar**.  Por uma questão de conveniência para o laboratório, nenhuma outra localização vai ser incluída nesta retenção.
 
@@ -97,7 +93,7 @@ Neste laboratório, vamos acompanhar as etapas necessárias para configurar a De
 
 1. No campo de Nome, insira **Retenção Teste – Pesquisa de Vendas** e depois selecione **Avançar** na parte inferior da página.
 
-1. Na página Escolher localizações, selecione o botão de alternância próximo ao email Exchange para definir o status como **Ativado** e selecione **Escolher usuários, grupos ou equipes**.  Na caixa de pesquisa, insira **Adele** e pressione o enter no teclado. A partir dos resultados da pesquisa, selecione **Adele Vance**, depois selecione **Concluído** e **Avançar**.  Nenhuma outra localização estará incluída nesta pesquisa
+1. Na página Escolher localizações, selecione o botão de alternância próximo a **Trocar caixas de correios** para definir o status como **Ativado** e selecione **Escolher usuários, grupos ou equipes**.  Na caixa de pesquisa, insira **Adele** e pressione o enter no teclado. A partir dos resultados da pesquisa, selecione **Adele Vance**, depois selecione **Concluído** e **Avançar**.  Nenhuma outra localização estará incluída nesta pesquisa
 
 1. A página Consultar condições permite criar uma pesquisa com base em Palavras-chave ou Condições atendidas. No campo de palavra-chave, insira **Vendas** e selecione **Avançar**.
 
